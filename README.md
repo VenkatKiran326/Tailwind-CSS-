@@ -2,8 +2,8 @@
 
 A modern crystal and gem e-commerce UI built with **React.js** and **Tailwind CSS**, featuring seamless **Dark/Light mode** support. This is a frontend-only project showcasing a beautiful layout for shopping, product browsing, and signup flow.
 
-![AuraGems Light Mode](output/aura-light.png)
-![AuraGems Dark Mode](output/aura-dark.png)
+![AuraGems Light Mode](output/1_Home.png)
+![AuraGems Dark Mode](output/2_Home_dark.png)
 
 ---
 
