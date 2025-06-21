@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@theme{
+    --color-BgColor:white;
+    --color-TextColor:green;
+} 
+
+/* custom by us */
+:root{
+    /* light mode */
+    --color-BgColor:white;
+     --color-TextColor:black; 
+
+}
+:root[class="dark"]{
+    /* dark mode */
+    --color-BgColor:rgb(0, 0, 0);
+    --color-TextColor:rgb(16, 255, 8); /*for a para*/
+    --color-TextColorHead:rgb(255, 255, 255); /*For headings */
+}
