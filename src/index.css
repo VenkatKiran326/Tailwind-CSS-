@@ -1,8 +1,8 @@
 @import "tailwindcss";
-@theme{
+/* @theme{
     --color-BgColor:white;
     --color-TextColor:green;
-} 
+}  */
 
 /* custom by us */
 :root{
