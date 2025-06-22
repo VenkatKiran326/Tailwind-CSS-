@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { LandingPage } from './AuraGems/LandingPage';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { NavBarSection } from './AuraGems/components/NavBarSection';
 import { Shop } from './AuraGems/pages/Shop';
 import { Footer } from './AuraGems/components/Footer';
